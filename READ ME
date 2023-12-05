@@ -1,0 +1,25 @@
+In today financial world, investing in the stokc market can be daunting, especially for those people without
+the financial expertise or time to analyse complex market trends. 
+
+Recognizing this challenge, the primary objective is to bridge the gap between complex financial data and everyday investors.
+Whether you're a beginner looking to make your first investment or a seasoned investor seeking a quick analysis tool, 
+our project is designed to cater to your needs, offering clarity and confidence in your investment journey.
+
+The project, grounded in the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology.
+
+* Development Environment:
+  I decide to chose Google Colab as the development platform for its accesibility and a powerfull cloud-based features,
+  allowing for efficient coding and data handling.
+
+* Data Source: 
+  The main source for financial data was used using Yahoo Finance library, a trusted and comprehensive source for 
+  historical stock prices and market information.
+
+* Predictive Modelling:
+  At the heart of our project lies the SARIMA (Seasonal Autoregressive Integrated Moving Average) model.
+  Renowned for its effectiveness in time series forecasting, SARIMA can adeptly handle complex patterns in stock price data, 
+  such as trends and seasonality.
+
+* Evaluation and Deployment:
+  I evaluated the model's performance, focusing on metrics like RMSE to ensure accuracy and reliability. Based on the
+  result obtained by SARIMA, other models are going to be compared. 
